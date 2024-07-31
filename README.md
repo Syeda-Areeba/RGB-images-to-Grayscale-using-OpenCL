@@ -1,0 +1,1 @@
+# RGB-images-to-Grayscale-using-OpenCL
